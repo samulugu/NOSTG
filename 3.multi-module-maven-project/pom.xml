@@ -190,7 +190,7 @@
 
 	<distributionManagement>
 		<repository>
-			<id>prod</id>
+			<id>Releases</id>
 			<name>Corporate Releases</name>
 			<url>Repository Name for releasing</url>
 		</repository>
