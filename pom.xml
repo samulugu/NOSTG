@@ -68,7 +68,7 @@
                     <configuration>
                         <warFile>target/in28minutes.war</warFile>
                         <path>/</path>
-                        <contextReloadable>false</contextReloadable>
+                        <contextReloadable>true</contextReloadable>
                     </configuration>
                 </plugin>
             </plugins>
